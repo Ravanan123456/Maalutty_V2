@@ -1,4 +1,4 @@
-<h3 align="center">💝MAALUTTY_V2💝</h3>
+<h3 align="center">💝Pinky V_2💝</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
 
-get extra feturs use maalutty v3😍⏬
+get extra feturs use Pinky V_2😍⏬
 
 [![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
   </div>
@@ -45,7 +45,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/nijin-husni/MAALUTTY_V2
-$ cd MAALUTTY_V2
+$ cd Pinky V_2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node maalutty.js
@@ -86,7 +86,7 @@ Click WA logo to Join public bot Group👇
 ##Bots allowed grops 🔰
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
+  [![join](https://github.com/Alien-alfablicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
   <div align="center">
 
   </div>
@@ -100,7 +100,7 @@ Click WA logo to Join public bot Group👇
 
 [![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
 
-### ❤️ MAALUTTY_V2 💙 website⤵️
+### ❤️ Pinky V_2 💙 website⤵️
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
 
