@@ -35,7 +35,7 @@ get extra feturs use Pinky_v2😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy]https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan123456/Maalutty_V2
+[![Deploy](https://heroku.com/deploy?template=https://github.com/Ravanan123456/Maalutty_V2
 
 
 ### jishnu
